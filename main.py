@@ -483,7 +483,7 @@ class ConfigWindow(ttk.Frame):
             autosave = "on"
         else:
             autosave = "off"
-        self.fontname.set(font)
+        self.fontname.set(font_path)
         self.dirname.set(save_dir)
         save_config()
 
