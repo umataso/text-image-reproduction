@@ -1,8 +1,10 @@
 # text-image-reproduction
-メインGUI&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;実行ウインドウ
+メインGUI
 
 <img src="sample/mainUI_sample.png" height="300">
-→
+
+実行ウインドウ
+
 <img src="sample/working_sample.png" height="300">
 
 文字で画像を再現するプログラムです。
